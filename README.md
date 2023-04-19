@@ -1,5 +1,5 @@
 
-# Smart Fridge
+# Food Expiration Tracker
 
 ## Our Goal
 
@@ -13,6 +13,3 @@ The objective of this app is to learn how to incorporate Firebase into our Flutt
 - Learn about Streams and how they work.
 - Learn to use ListViews to build scrolling views.
 - How to use Firebase Cloud Firestore to store and retrieve data on the fly.
-
-
-
